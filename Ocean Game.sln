@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DCD2875B-9CA0-C63F-955B-362066464399}") = "Ocean Game", "Assembly-CSharp.csproj", "{B0C3E354-64FB-BE26-1FC2-4B5E77FB21EE}"
+EndProject
+Project("{DCD2875B-9CA0-C63F-955B-362066464399}") = "Ocean Game", "Assembly-CSharp-Editor.csproj", "{3FE8FF72-2547-2A5B-0AD2-9B7EB23B984D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C3E354-64FB-BE26-1FC2-4B5E77FB21EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C3E354-64FB-BE26-1FC2-4B5E77FB21EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C3E354-64FB-BE26-1FC2-4B5E77FB21EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C3E354-64FB-BE26-1FC2-4B5E77FB21EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE8FF72-2547-2A5B-0AD2-9B7EB23B984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE8FF72-2547-2A5B-0AD2-9B7EB23B984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE8FF72-2547-2A5B-0AD2-9B7EB23B984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE8FF72-2547-2A5B-0AD2-9B7EB23B984D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
